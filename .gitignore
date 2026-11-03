@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Secrets — NEVER commit
+.env
+
+# Cached data and downloads
+cache/
+*.nc
+*.nc4
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
